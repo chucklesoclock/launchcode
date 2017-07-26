@@ -1,3 +1,10 @@
+"""
+Creates a star using a four-square figure.
+Hard-coded to draw the four-square 5 times, equally rotated along 180 degrees. 
+Only certain numbers guarantee non-reptition of four-square being drawn. 
+Math could probably figure which could reduce the number of figures necessary. 
+"""
+
 import turtle as t
 
 def line(length, turt):
